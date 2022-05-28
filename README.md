@@ -1,4 +1,4 @@
-## responsive website
+## Responsive website
 
 - Basic html and css features - medium
 - Good code practices
